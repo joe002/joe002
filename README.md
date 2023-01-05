@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joe002
-- 👀 I’m interested in visual effects (josephibrahim.co)
-- 🌱 I’m currently learning houdini.
+- 👀 I work in visual effects (josephibrahim.co)
+- 🌱 I use houdini/maya w/ arnold/renderman/vray.
 - 💞️ I’m looking to collaborate on houdini projects.
 - 📫 How to reach me jomar.ibrahim@gmail.com
 
