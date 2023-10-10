@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @joe002
+- 👋 Hi, I’m @joe002 (Joseph Ibrahim)
 - 👀 I work in visual effects (josephibrahim.co)
-- 🌱 I use houdini/maya w/ arnold/renderman/vray.
-- 💞️ I’m looking to collaborate on houdini projects.
+- 🌱 I use houdini/maya w/ mostly arnold, renderman, and vray.
+- 💞️ I ♥️ Houdini projects.
 - 📫 How to reach me jomar.ibrahim@gmail.com
 
 <!---
