@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joe002 (Joseph Ibrahim)
-- 👀 I work in visual effects (josephibrahim.co)
-- 🌱 I use houdini/maya/nuke & unreal w/ renderers arnold, renderman, and vray.
-- 💞️ I ♥️ Houdini and Unreal projects.
+- 👀 I work in visual effects (https://josephibrahim.com)
+- 🌱 I use alot of vfx software + real-time + find Touch Designer fascinating.
+- 💞️ I ♥️ Houdini and Unreal projects + AI Conductor + AI Development
 - 📫 How to reach me jomar.ibrahim@gmail.com
 
 <!---
